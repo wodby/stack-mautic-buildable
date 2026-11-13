@@ -1,5 +1,6 @@
 name: mautic-buildable
 icon: mautic
+docs: https://wodby.com/docs/2.0/stacks/catalog/mautic-buildable/
 title: Mautic (buildable)
 # A variant of the Mautic stack: the catalog suggests them to each other.
 variantOf: mautic
